@@ -1,13 +1,13 @@
 # Hello, I'm Angelo
-<a href="www.linkedin.com/in/angelo-dellaporta-52947935b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angelo-dellaporta-52947935b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
 
-Motivated cybersecurity student interested in pursuing a career in risk management or security operations, with a growing understanding of cybersecurity principles and practices. Strong problem-solving and communication skills developed through internship experience, coursework, projects, peer tutoring, and security exercises. Eager to apply classroom knowledge to real-world security challenges while continuing to develop technical and professional skills. 
+Motivated cybersecurity student interested in pursuing a career in risk management or security operations, with a growing understanding of cybersecurity principles and practices. Strong problem-solving and communication skills developed through internship experience, coursework, projects, peer tutoring, and security exercises. 
 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for risk management and security operations, and I am eager to transition into this field, specifically aiming to become a GRC analyst or join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has sparked a passion for risk management and security operations, and I am eager to transition into this field, aiming to become a GRC analyst or join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
